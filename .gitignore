@@ -1,0 +1,4 @@
+*.csv
+*.ans
+*.txt
+chatgpt/text_connect.ipynb
