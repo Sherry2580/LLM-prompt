@@ -1,6 +1,7 @@
 *.csv
 *.ans
 *.txt
+*.log
 chatgpt/text_connect.ipynb
 .env
 
