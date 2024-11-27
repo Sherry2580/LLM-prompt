@@ -2,3 +2,6 @@
 *.ans
 *.txt
 chatgpt/text_connect.ipynb
+.env
+
+
